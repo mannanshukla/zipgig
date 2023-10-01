@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "user_id": 4,
+        "address": null
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Heart",
+        "user_id": 5,
+        "address": null
+    },
+    {
+        "first_name": "Dom",
+        "last_name": "Robinsons",
+        "user_id": 6,
+        "address": null
+    },
+    {
+        "first_name": "Pete",
+        "last_name": "Hand",
+        "user_id": 7,
+        "address": null
+    }
+]
