@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "title": "Software Engineer",
+      "user_requesting": {
+        "username": "user1",
+        "first_name": "John",
+        "last_name": "Doe",
+        "picture": "https://i.imgur.com/uZ389q8.png",
+        "location": "San Francisco, CA"
+      },
+      "description": "I am looking for a software engineer to join my team. The ideal candidate will have experience with Python, Django, and React.",
+      "picture": "https://www.phoenix.edu/content/dam/edu/blog/2023/02/Male-programmer-writing-code-in-modern-office-704x421.jpg",
+      "price": 100000
+    },
+    {
+      "title": "Graphic Designer",
+      "user_requesting": {
+        "username": "user2",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "picture": "https://i.imgur.com/57bW9hC.png",
+        "location": "New York, NY"
+      },
+      "description": "I am looking for a graphic designer to help me with my new branding. The ideal candidate will have experience with Adobe Creative Suite and a strong portfolio.",
+      "picture": "https://www.springboard.com/blog/wp-content/uploads/2023/02/how-to-become-a-graphic-designer-2023-career-guide.jpeg",
+      "price": 50000
+    },
+    {
+      "title": "Web Developer",
+      "user_requesting": {
+        "username": "user3",
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "picture": "https://i.imgur.com/1u9yK4s.png",
+        "location": "London, UK"
+      },
+      "description": "I am looking for a web developer to help me build a new website for my business. The ideal candidate will have experience with HTML, CSS, and JavaScript.",
+      "picture": "https://www.udacity.com/blog/wp-content/uploads/2021/01/Become-a-full-stack-web-developer_Blog-scaled.jpeg",
+      "price": 75000
+    },
+    {
+      "title": "Content Writer",
+      "user_requesting": {
+        "username": "user4",
+        "first_name": "Mary",
+        "last_name": "Jane",
+        "picture": "https://i.imgur.com/48X1y6G.png",
+        "location": "Sydney, Australia"
+      },
+      "description": "I am looking for a content writer to help me create blog posts, articles, and other types of content for my website. The ideal candidate will have strong writing skills and experience with SEO.",
+      "picture": "https://contentwriters.com/blog/wp-content/uploads/content-writer.jpg",
+      "price": 60000
+    },
+    {
+      "title": "Social Media Manager",
+      "user_requesting": {
+        "username": "user5",
+        "first_name": "David",
+        "last_name": "Williams",
+        "picture": "https://i.imgur.com/s0c18iO.png",
+        "location": "Toronto, Canada"
+      },
+      "description": "I am looking for a social media manager to help me manage my company's social media accounts. The ideal candidate will have experience with social media marketing and a strong understanding of the different social media platforms.",
+      "picture": "https://www.krusecontrolinc.com/wp-content/uploads/2021/12/Social-media-manager-white-hands-phone-scaled.jpg",
+      "price": "10000"      
+     }
+]
+}
